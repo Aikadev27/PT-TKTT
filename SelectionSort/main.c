@@ -23,7 +23,7 @@ void SelectionSort(recordtype a[], int n)
 // {
 //     int a[20], n;
 //     input(a,n);
-    
+
 //     printf(" before sort\n");
 //     output(a,n);
 //     printf("after sort\n");
